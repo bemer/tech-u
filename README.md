@@ -42,7 +42,7 @@ Copie o diretório com sua aplicação para o diretório `html` do nginx utiliza
 
 Inicie o nginx:
 
-    sudo ngin
+    sudo nginx
 
 Acesse a sua aplicação através da url:
 
